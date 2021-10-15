@@ -1,0 +1,2 @@
+rootProject.name = "JenkinsTestApp"
+include ':app'
